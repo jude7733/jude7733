@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jude7733
+- 👋 Hi, I’m jude saju
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... AI and ML
 - 💞️ I’m looking to collaborate on ... idk
