@@ -5,7 +5,7 @@
 - 📫 How to reach me ... judeputhussery360@gmail.com
 
 
-![index](https://user-images.githubusercontent.com/93538042/221264846-c9433260-edc6-4416-98ad-867cab22f58f.jpg)
+![index]([https://user-images.githubusercontent.com/93538042/221264846-c9433260-edc6-4416-98ad-867cab22f58f.jpg](https://www.pngkit.com/png/detail/24-246320_kde-neon-linux-logo.png))
 
 
 <!---
