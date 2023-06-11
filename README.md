@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ... AI and ML
 - 💞️ I’m looking to collaborate on ... idk
 - 📫 How to reach me ... judeputhussery360@gmail.com
-
-
-![index](blob:https://www.pngegg.com/d7ab6c99-1b4f-4c3c-a124-bfe151bc455d)
+<br>
+<br>
+![pngegg](https://github.com/jude7733/jude7733/assets/93538042/aab50d9c-21f7-45ed-b82f-7637d8bbcc00)
 
 
 <!---
