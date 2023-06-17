@@ -9,16 +9,16 @@
   
   <p fload="left">
     <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="45%" height="200" />
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="45%" height="200" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jude7733&theme=merko&show_icons=true&rank_icon=github" height="200" />
   </p>
   
   <p fload="left">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=jude7733&theme=merko" width="45%" />
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="45%" height="190" />
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="45%" height="200" />
   </p>
 
   <p fload="left">
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="45%" height="190" />
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="47%" height="190" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jude7733&theme=merko&hide=Powershell" height="190" />
     <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="200" />
   </p>
