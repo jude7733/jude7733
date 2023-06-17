@@ -1,15 +1,28 @@
 - 👋 Hi, I’m jude saju
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... AI and ML
-- 💞️ I’m looking to collaborate on ... IDK!
+- 💞️ I’m looking to collaborate on ... easy stuffs!
 - 📫 How to reach me ... judeputhussery360@gmail.com
 <hr>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jude7733&show_icons=true&theme=dracula&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
+<div align="center">
+  
+  <p fload="left">
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="45%" height="200" />
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="45%" height="200" />
+  </p>
+  
+  <p fload="left">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=jude7733&theme=merko" width="45%" />
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="45%" height="190" />
+  </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jude7733&theme=dracula&hide=Powershell)](https://github.com/anuraghazra/github-readme-stats)
+  <p fload="left">
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="45%" height="190" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jude7733&theme=merko&hide=Powershell" height="190" />
+    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" height="200" />
+  </p>
+</div>
 
 <hr>
 <img width ="100" height="100" src="https://github.com/jude7733/jude7733/assets/93538042/aab50d9c-21f7-45ed-b82f-7637d8bbcc00">
