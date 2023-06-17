@@ -7,20 +7,20 @@
 <hr>
 <div align="center">
   
-  <p fload="left">
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="45%" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api?username=jude7733&theme=merko&show_icons=true&rank_icon=github" width="45%" height="200" />
+  <p fload="left" >
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="39%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=jude7733&theme=merko&show_icons=true&rank_icon=github" width="55%"  />
   </p>
   
   <p fload="left">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=jude7733&theme=merko" width="45%" />
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="47%" height="200" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=jude7733&theme=merko" width="55%" />
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="39%" />
   </p>
 
   <p fload="left">
-    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="50%" height="190" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jude7733&theme=merko&hide=Powershell" width="30%" height="200" />
-    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="19%" height="200" />
+    <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="42%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jude7733&theme=merko&hide=Powershell" width="34%" />
+    <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="21%"/>
   </p>
 </div>
 
