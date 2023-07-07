@@ -2,9 +2,19 @@
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... AI and ML
 - 💞️ I’m looking to collaborate on ... easy stuffs!
-- 📫 How to reach me ... judeputhussery360@gmail.com
+
+<div>
+<a href="mailto:judeputhussery360@gmail.com">
+<img width="60" src="https://github.com/jude7733/jude7733/assets/93538042/89816f5d-6494-42da-8cf0-a5b63041e796" />
+</a>
+<a href="https://www.linkedin.com/in/jude-saju-455a17225/">
+<img width="60" src="https://github.com/jude7733/jude7733/assets/93538042/e9d6df2b-3cb9-4cd1-9c18-1653a91d72e5" />
+<a/>
+</div>
+
 <br>
 <hr>
+
 <div align="center">
   
   <p fload="left" margin="0">
