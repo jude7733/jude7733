@@ -5,11 +5,9 @@
 
 <div align="center>
   
-<a href="mailto:judeputhussery360@gmail.com">
-<img width="60" src="https://github.com/jude7733/jude7733/assets/93538042/89816f5d-6494-42da-8cf0-a5b63041e796" /></a>
+<a href="mailto:judeputhussery360@gmail.com"><img align="left" width="60" src="https://github.com/jude7733/jude7733/assets/93538042/89816f5d-6494-42da-8cf0-a5b63041e796"/></a>
   
-<a href="https://www.linkedin.com/in/jude-saju-455a17225/">
-<img width="60" src="https://github.com/jude7733/jude7733/assets/93538042/e9d6df2b-3cb9-4cd1-9c18-1653a91d72e5" /></a>
+<a href="https://www.linkedin.com/in/jude-saju-455a17225/"><img width="60" src="https://github.com/jude7733/jude7733/assets/93538042/e9d6df2b-3cb9-4cd1-9c18-1653a91d72e5"/></a>
 
 </div>
 
