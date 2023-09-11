@@ -26,6 +26,5 @@
 
 <hr>
 <br>
-<img width ="100" height="100" src="https://github.com/jude7733/jude7733/assets/93538042/aab50d9c-21f7-45ed-b82f-7637d8bbcc00">
 
-<img src="https://github.com/jude7733/jude7733/assets/93538042/68b77249-398a-4eb8-8aa9-35cf29811983" width="50%">
+<img src="https://github.com/jude7733/jude7733/assets/93538042/1c1e64dd-dad4-45fb-9c15-34a3300ece65" width="10%">
