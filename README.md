@@ -27,4 +27,4 @@
 <hr>
 <br>
 
-<img src="https://github.com/jude7733/jude7733/assets/93538042/1c1e64dd-dad4-45fb-9c15-34a3300ece65" width="10%">
+<img src="./pngegg.png" width="15%">
