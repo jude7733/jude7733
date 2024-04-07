@@ -24,7 +24,8 @@
   </p>
 </div>
 
+
 <hr>
 <br>
 
-<img src="./pngegg.png" width="15%">
+<img src="https://github.com/jude7733/jude7733/assets/93538042/691e2d6d-1bf3-491e-a629-7620b473aa59" width="15%">
