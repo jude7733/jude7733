@@ -1,9 +1,7 @@
-<div width="70%" align="left">
 <p align="left">- 👋 Hi, I’m Jude Saju</p>
 <p align="left">- 👀 I’m interested in ... coding, gaming</p>
 <p align="left">- 🌱 I’m currently learning ... AI and ML</p>
 <p align="left">- 💞️ I’m looking to collaborate on ... React, ML projects!</p>
-</div>
 
 <hr />
 
@@ -142,5 +140,6 @@
   </p>
 </div>
 
+<img src="https://github.com/archlinux/.github/raw/main/profile/archlinux-logo-dark-scalable.svg" alt="arch" />
 
 <hr>
