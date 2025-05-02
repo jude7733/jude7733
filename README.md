@@ -29,8 +29,20 @@
 
 <div align="right" margin="0">
   <h3 margin="5">Development Environments</h3>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/> 
+  </a>
+   <a href="https://hyprland.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Hyprland_logo.png" alt="Hyprland" width="40" height="40"/> 
+  </a>
+  <a href="https://anaconda.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> 
+  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
   </a>
   <a href="https://jupyter.org/"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> 
@@ -41,7 +53,66 @@
   <a href="https://yarnpkg.com/"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/> 
   </a>
+  <a href="https://pnpm.io/"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" alt="pnpm" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mozilla.org/en-US/"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" alt="firefox" width="40" height="40"/> 
+  </a>
 </div> 
+
+
+<div align="left" margin="0">
+  <h3 margin="5">AI</h3>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> 
+  </a>
+   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> 
+  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.45.0/files/dark/langchain.png" alt="langchain" width="40" height="40"/> 
+  </a>
+   <a href="https://ollama.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.45.0/files/dark/ollama.png" alt="ollama" width="40" height="40"/> 
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/> 
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+  </a>
+  <a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="40" height="40"/> 
+  </a>
+</div>
+
+
+<div align="right" margin="0">
+  <h3 margin="5">Databases</h3>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" alt="firebase" width="40" height="40"/> 
+  </a>
+   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+</div>
+
 
 <div align="left" margin="0">
   <h3 margin="5">Web Development</h3>
@@ -69,40 +140,14 @@
   <a href="https://vitejs.dev/"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40"/> 
   </a>
-</div>
-
-<div align="right" margin="0">
-  <h3 margin="5">Databases</h3>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a>
-</div>
-
-<div align="left" margin="0">
-  <h3 margin="5">Frameworks and Libraries</h3>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a>
-  <a href="https://matplotlib.org/"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/> 
+  <a href="https://eslint.org/"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/> 
   </a>
   <a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/> 
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
   </a>
 </div>
 
@@ -118,6 +163,12 @@
   <a href="https://cloud.google.com/"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="googlecloud"/> 
   </a>
+  <a href="https://www.docker.com/"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> 
+  </a>
+  <a href="https://pypi.org/">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pypi/pypi-original.svg" width="40" height="40" alt="pypi"/>
+  </a>
 </div>  
 
 
@@ -129,7 +180,7 @@
   </p>
   
   <p fload="left" margin="0">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=jude7733&theme=merko" width="55%" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=jude7733&theme=merko&hide_longest_streak=true" width="55%" />
     <img src="https://media.giphy.com/media/xULW8l2gXuRPmsQe8U/giphy.gif" width="39%" />
   </p>
 
